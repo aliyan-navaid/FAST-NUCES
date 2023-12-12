@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/DANISH LAPTOP/Desktop/PF-Project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\main.dir\\main.c.obj -c \"C:\\Users\\DANISH LAPTOP\\Desktop\\PF-Project\\main.c\"",
+  "file": "C:/Users/DANISH LAPTOP/Desktop/PF-Project/main.c",
+  "output": "CMakeFiles/main.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/DANISH LAPTOP/Desktop/PF-Project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL @CMakeFiles/testcodes.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\testcodes.dir\\testcodes.c.obj -c \"C:\\Users\\DANISH LAPTOP\\Desktop\\PF-Project\\testcodes.c\"",
+  "file": "C:/Users/DANISH LAPTOP/Desktop/PF-Project/testcodes.c",
+  "output": "CMakeFiles/testcodes.dir/testcodes.c.obj"
+}
+]
